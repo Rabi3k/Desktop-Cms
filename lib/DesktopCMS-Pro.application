@@ -4,17 +4,17 @@
   <description asmv2:publisher="DesktopCMS-Pro" asmv2:product="DesktopCMS-Pro" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <deployment install="true" mapFileExtensions="true" />
   <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
-    <framework targetVersion="4.6.2" profile="Full" supportedRuntime="4.0.30319" />
+    <framework targetVersion="4.8" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="DesktopCMS-Pro.exe.manifest" size="156080">
+    <dependentAssembly dependencyType="install" codebase="DesktopCMS-Pro.exe.manifest" size="76779">
       <assemblyIdentity name="DesktopCMS-Pro.exe" version="1.0.0.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>dp5UdBevIDYx6nCIcuVy/DlfQfbyfIbq8Xv5AevqARI=</dsig:DigestValue>
+        <dsig:DigestValue>NATdCn6u7Ym1m2XZvQd+etfSmIlxYZEVfq2mqUgazgM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
