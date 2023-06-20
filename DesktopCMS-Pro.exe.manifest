@@ -103,14 +103,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DesktopCMS-Pro.exe" size="1397248">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DesktopCMS-Pro.exe" size="1402880">
       <assemblyIdentity name="DesktopCMS-Pro" version="1.0.2.1" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>dj3peWvGADRRgFTzz8O3Gdr/yYWpit6ea7UJG0/6Ka4=</dsig:DigestValue>
+        <dsig:DigestValue>9WJ8b+UDmYkTnxkxeGBAb7CGx2hHy4MC5J2QJ+ne4TE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -122,7 +122,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>sQkdfCoQojBvJEwBEtA2Be7ir46OA5iBnY9Wbs4zF1o=</dsig:DigestValue>
+        <dsig:DigestValue>d7tkNuNiCHaC3UfsHcfDZ8tKB+wf5ODs1kSAcvH8FYQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -794,31 +794,31 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>NGCesMnctJ0PQHJrQmPzS4XpcmfqMeizzhAgf4e92QI=</dsig:DigestValue>
+        <dsig:DigestValue>DeOD/e5HnILzXMGuoYmD35LoQVt3F5pRjE3Xv2/t8PE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ETS-DataSource.dll" size="130560">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ETS-DataSource.dll" size="123904">
       <assemblyIdentity name="ETS-DataSource" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>KjW7s2o3BKfCRomxPZnAMkRn0MFuQITyMK2WXMEO6aw=</dsig:DigestValue>
+        <dsig:DigestValue>775xY6npfL6btBbokqDa91K/LET29HnUfx0xl3GX0ZY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ETS-Interface.dll" size="24064">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ETS-Interface.dll" size="23552">
       <assemblyIdentity name="ETS-Interface" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>fU/dUvGnS4aq1JSnGjCOCI/u/aQ1feAU+t/1QJ4sVxY=</dsig:DigestValue>
+        <dsig:DigestValue>FUgWFwsHZlxGBr9VOY3XMf3C1WPCUguBmSwmoSU+aJI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
