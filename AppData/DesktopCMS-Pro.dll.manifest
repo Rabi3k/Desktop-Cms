@@ -108,7 +108,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>nvWo4dHGb35IXc6b1l/H3TI4L3Ql7R44wyGP4iJ+ec4=</dsig:DigestValue>
+      <dsig:DigestValue>Q2GNrVvu4sULq69qnJeIW+xrN+dENtJW6HhapcZtGh0=</dsig:DigestValue>
     </hash>
   </file>
   <file name="DesktopCMS-Pro.dll" size="1513472">
@@ -954,7 +954,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>ahCXnIqyrQ39aWP9mm53PiuKR4YWwclFyFrwpB/JSWA=</dsig:DigestValue>
+      <dsig:DigestValue>zIsYO/3JZWM3IY5eF0MkTbgJrrRZM+O9uE0Sf3BeKWE=</dsig:DigestValue>
     </hash>
   </file>
   <file name="ETS-Interface.dll" size="23552">
