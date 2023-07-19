@@ -108,16 +108,16 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>Q2GNrVvu4sULq69qnJeIW+xrN+dENtJW6HhapcZtGh0=</dsig:DigestValue>
+      <dsig:DigestValue>3uFnDdN/wbqN8DAdGUDHU5M3kR8IXognjEBP9CFA1N8=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="DesktopCMS-Pro.dll" size="1513472">
+  <file name="DesktopCMS-Pro.dll" size="1514496">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>hQ5tm2carkdNW5DNpFZQh0khAbj9gMZPMVHsqZfNhRg=</dsig:DigestValue>
+      <dsig:DigestValue>ouP1EWsV4tBWlB7gtvvcJ/jof4RB4aI+C/uaHrOCjgk=</dsig:DigestValue>
     </hash>
   </file>
   <file name="DesktopCMS-Pro.dll.config" size="8639">
@@ -945,7 +945,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>taLYC8Vq7mb8Q3lxcvDZGmMGUWIcyYTjwM6/7y5dvS8=</dsig:DigestValue>
+      <dsig:DigestValue>GlPnvOBgB9gyrq1KkXfOavJA+mi5Wh3PtBKAduvSZxc=</dsig:DigestValue>
     </hash>
   </file>
   <file name="ETS-DataSource.dll" size="124928">
@@ -954,16 +954,16 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>zIsYO/3JZWM3IY5eF0MkTbgJrrRZM+O9uE0Sf3BeKWE=</dsig:DigestValue>
+      <dsig:DigestValue>QcPCISAbm2U5XmS0wZsMSFQ7XVin59tPAwwNWnno6sw=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="ETS-Interface.dll" size="23552">
+  <file name="ETS-Interface.dll" size="24064">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>JXCzU1XR/T9Myrg7OCmFgM1qugGLdUSDitq2Y0ZmSzs=</dsig:DigestValue>
+      <dsig:DigestValue>KwVoylN3fZLGGE+SBXvhNrqeiUHxSgk19S6tnXzjCKI=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Google.Protobuf.dll" size="443672">
